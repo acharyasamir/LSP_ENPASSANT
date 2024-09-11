@@ -1,0 +1,7 @@
+The quick brown     fox jumps over the lazy dog 10 times The dog is not lazy just very relaxed
+In this example Example we'll see how to count      word occurrences in a text file
+Each word in the file will be counted counTed regardless of punctuation or capitalization
+123 456 789 1000 are numbers in this input They should not be      counted as words
+The quick brown     fox jumps over the lazy dog 10 times The dog is not lazy just very relaxed
+This should be more than 100 words in this file word word word word
+Just a random sentence here
